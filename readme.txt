@@ -1,4 +1,4 @@
-В папке task1 проект на JS
-В качестве сервера JSON Server : npx json-server todo.json
-Запуск в браузере : task1\index.html 
-Просмотр данных в JSON Server : http://localhost:3000/posts/
+Р’ РїР°РїРєРµ task1 РїСЂРѕРµРєС‚ РЅР° JS
+Р’ РєР°С‡РµСЃС‚РІРµ СЃРµСЂРІРµСЂР° JSON Server : npx json-server todo.json
+Р—Р°РїСѓСЃРє РІ Р±СЂР°СѓР·РµСЂРµ : task1\index.html 
+РџСЂРѕСЃРјРѕС‚СЂ РґР°РЅРЅС‹С… РІ JSON Server : http://localhost:3000/posts/
